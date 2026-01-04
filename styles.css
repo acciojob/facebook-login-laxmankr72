@@ -6,12 +6,12 @@ body{
 	align-items:center;
 	height:100vh;
 }
-#left{
+.left{
 	width:450px;
 	margin-top:70px;
 	display:inline-block;
 }
-#left img{
+.left img{
 	width:100%
 }
 #right{
